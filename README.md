@@ -9,3 +9,13 @@ In order to setup this project, you will need to install wamp server
   4. Import the database file titled "healthmate.sql" into the new database to load all necessary tables.
   5. Navigate to the URL "localhost/healthmate" to start the application.
   6. Sample login details for all roles are located in a text file titled "test.php"
+
+# Screenshots
+Homepage
+![Screenshot (136)](https://github.com/chester-ops/Healthmate/assets/95428578/9944289e-ed88-4234-aae0-86779db240fe)
+
+Patient Dashboard
+![Screenshot (137)](https://github.com/chester-ops/Healthmate/assets/95428578/1ff6ec92-a667-4a6b-a433-5e302d7e5764)
+
+
+
